@@ -32,6 +32,12 @@ Kanbarn is fully responsive and optimized for mobile and tablet views.
 
 ---
 
+## Live Link 
+
+https://mohammed-saif-07.github.io/Kanbarn/
+
+--
+
 ## 🛠️ Setup & Usage
 
 1. Clone the repository:
